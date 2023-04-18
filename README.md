@@ -1,4 +1,6 @@
 ### Olá! Sou Otávio Will 🤚
+#### Abaixo você encontra alguamas das minhas habilidades como dev júnior.
+
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ot%C3%A1vio-will-424a21180/)
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](otaviowill81@gmail.com)
