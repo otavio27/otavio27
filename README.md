@@ -6,6 +6,8 @@
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](otaviowill81@gmail.com)
 [![](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://owtechsystems.com)
 
+#### Atualmente muitos dos meus repositórios são privados.
+
 ![Otavio GitHub stats](https://github-readme-stats.vercel.app/api?username=otavio27&show_icons=true&theme=cobalt)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=otavio27)](https://github.com/otavio27/github-readme-stats)
