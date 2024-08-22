@@ -27,8 +27,6 @@
 
 <div style="display: inline_block"><br>
     <img algin="center" alt="Debian" src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white">
-    <img algin="center" alt="FreeBSD" src="https://img.shields.io/badge/freebsd-AB2B28?style=for-the-badge&logo=freebsd&logoColor=white">
-    <img algin="center" alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 </div>
 
 
