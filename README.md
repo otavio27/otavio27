@@ -1,27 +1,33 @@
-### Olá! Sou Otávio Will 🤚
+### 🚀 Olá! Sou Otávio Will 🤚  
+Desenvolvedor júnior apaixonado por tecnologia, autodidata e focado em backend com **Go** e frontend com **Vue.js**.
 
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ot%C3%A1vio-will-424a21180/)
-[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](otaviowill81@gmail.com)
-[![](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://teamcollab.net)
+[![Website](https://img.shields.io/badge/teamcollab.net-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://teamcollab.net)
 
+---
 
-## Tecnologias
-<div style="display: inline_block"><br>
-    <img algin="center" alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
-    <img algin="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-    <img algin="center" alt="Vue.js" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
-    <img algin="center" alt="Quasar.Js" src="https://img.shields.io/badge/quasar.js-100000?style=for-the-badge&logo=quasar&logoColor=white&labelColor=black&color=black">
-    <img algin="center" alt="Html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    <img algin="center" alt="Shell Script" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
-    <img algin="center" alt="Postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+## 🛠️ Tecnologias
+<div style="display: flex; flex-wrap: wrap; gap: 8px;">
+  <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
+  <img alt="Quasar" src="https://img.shields.io/badge/Quasar-027BE3?style=for-the-badge&logo=quasar&logoColor=white">
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img alt="Shell Script" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
 </div>
 
+---
 
-## Sistemas Operacional
-<div style="display: inline_block"><br>
-    <img algin="center" alt="Debian" src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white">
+## 💻 Sistema Operacional
+<div>
+  <img alt="Debian" src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white">
 </div>
 
+---
 
-Apaixonado por tecnologia, autodidata e dev júnior golang.
+## 👨‍💻 Sobre mim
+Atuo como desenvolvedor na equipe da **Teamcollab**, uma empresa especializada em criar **soluções de software sob medida**, sempre moldadas às necessidades específicas de nossos clientes.
 
+Sou movido por desafios e busco constantemente evoluir tecnicamente, com foco em entregar código limpo, funcional e de qualidade.
+
+---
