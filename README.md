@@ -1,5 +1,5 @@
 ### 🚀 Olá! Sou Otávio Will 🤚  
-Desenvolvedor júnior apaixonado por tecnologia, autodidata e focado em backend com **Go** e frontend com **Vue.js**.
+Desenvolvedor Golang apaixonado por tecnologia, autodidata e focado em backend com **Go** e frontend com **Vue.js**.
 
 [![Website](https://img.shields.io/badge/teamcollab.net-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://teamcollab.net)
 
