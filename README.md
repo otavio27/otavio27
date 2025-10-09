@@ -26,7 +26,8 @@ Desenvolvedor Golang apaixonado por tecnologia, autodidata e focado em backend c
 ---
 
 ## 👨‍💻 Sobre mim
-Atuo como desenvolvedor na equipe da **Teamcollab**, uma empresa especializada em criar **soluções de software sob medida**, sempre moldadas às necessidades específicas de nossos clientes.
+Atuo como desenvolvedor backend na equipe da **Teamcollab**. 
+Uma empresa que desenvolve soluções SaaS personalizadas para otimizar processos e impulsionar resultados de nossos clientes.
 
 Sou movido por desafios e busco constantemente evoluir tecnicamente, com foco em entregar código limpo, funcional e de qualidade.
 
