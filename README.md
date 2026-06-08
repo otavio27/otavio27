@@ -33,6 +33,6 @@ Atuo como desenvolvedor backend na **Teamcollab**, uma empresa que constrói sol
 
 Hoje meu foco é o **Verik**, uma plataforma de _due diligence_ para escritórios e times jurídicos: diligências, documentos, pareceres, convites e pagamentos. Trabalho num monorepo de microsserviços em **Go** (auth, pagamentos, CRM, notificações...) seguindo **arquitetura hexagonal** (ports & adapters), com **PostgreSQL**, testes de integração de verdade e deploy em **Kubernetes** via GitOps. No frontend, construo as interfaces em **Vue.js**.
 
-Sou movido por desafios e pela busca de código limpo, simples e bem testado — e levo cultura de code review a sério.
+Sou movido por desafios e pela busca de código limpo, simples e bem testado - e levo cultura de code review a sério.
 
 ---
