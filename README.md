@@ -1,5 +1,5 @@
 ### 🚀 Olá! Sou Otávio Will 🤚  
-Desenvolvedor **backend Go** (e full-stack com **Vue.js + TypeScript**), autodidata e apaixonado por arquitetura limpa e código bem testado.
+Desenvolvedor **backend Go** (e full-stack com **Vue.js**), autodidata e apaixonado por arquitetura limpa e código bem testado.
 
 [![Verik](https://img.shields.io/badge/verik.net-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://verik.net)
 [![Teamcollab](https://img.shields.io/badge/teamcollab.net-1f6feb?style=for-the-badge&logo=About.me&logoColor=white)](https://teamcollab.net)
@@ -9,7 +9,6 @@ Desenvolvedor **backend Go** (e full-stack com **Vue.js + TypeScript**), autodid
 ## 🛠️ Tecnologias
 <div style="display: flex; flex-wrap: wrap; gap: 8px;">
   <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
   <img alt="Quasar" src="https://img.shields.io/badge/Quasar-027BE3?style=for-the-badge&logo=quasar&logoColor=white">
@@ -32,7 +31,7 @@ Desenvolvedor **backend Go** (e full-stack com **Vue.js + TypeScript**), autodid
 ## 👨‍💻 Sobre mim
 Atuo como desenvolvedor backend na **Teamcollab**, uma empresa que constrói soluções SaaS para otimizar processos e impulsionar os resultados dos clientes.
 
-Hoje meu foco é o **Verik**, uma plataforma de _due diligence_ para escritórios e times jurídicos: diligências, documentos, pareceres, convites e pagamentos. Trabalho num monorepo de microsserviços em **Go** (auth, pagamentos, CRM, notificações...) seguindo **arquitetura hexagonal** (ports & adapters), com **PostgreSQL**, testes de integração de verdade e deploy em **Kubernetes** via GitOps. No frontend, construo as interfaces em **Vue.js + TypeScript**.
+Hoje meu foco é o **Verik**, uma plataforma de _due diligence_ para escritórios e times jurídicos: diligências, documentos, pareceres, convites e pagamentos. Trabalho num monorepo de microsserviços em **Go** (auth, pagamentos, CRM, notificações...) seguindo **arquitetura hexagonal** (ports & adapters), com **PostgreSQL**, testes de integração de verdade e deploy em **Kubernetes** via GitOps. No frontend, construo as interfaces em **Vue.js**.
 
 Sou movido por desafios e pela busca de código limpo, simples e bem testado — e levo cultura de code review a sério.
 
