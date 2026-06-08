@@ -1,7 +1,6 @@
 ### 🚀 Olá! Sou Otávio Will 🤚  
 Desenvolvedor **backend Go** (e full-stack com **Vue.js**), autodidata e apaixonado por arquitetura limpa e código bem testado.
 
-[![Verik](https://img.shields.io/badge/verik.net-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://verik.net)
 [![Teamcollab](https://img.shields.io/badge/teamcollab.net-1f6feb?style=for-the-badge&logo=About.me&logoColor=white)](https://teamcollab.net)
 
 ---
@@ -29,10 +28,15 @@ Desenvolvedor **backend Go** (e full-stack com **Vue.js**), autodidata e apaixon
 ---
 
 ## 👨‍💻 Sobre mim
-Atuo como desenvolvedor backend na **Teamcollab**, uma empresa que constrói soluções SaaS para otimizar processos e impulsionar os resultados dos clientes.
+Desenvolvedor backend focado em construir aplicações sólidas e bem testadas. O que eu trago:
 
-Hoje meu foco é o **Verik**, uma plataforma de _due diligence_ para escritórios e times jurídicos: diligências, documentos, pareceres, convites e pagamentos. Trabalho num monorepo de microsserviços em **Go** (auth, pagamentos, CRM, notificações...) seguindo **arquitetura hexagonal** (ports & adapters), com **PostgreSQL**, testes de integração de verdade e deploy em **Kubernetes** via GitOps. No frontend, construo as interfaces em **Vue.js**.
+- **APIs e serviços em Go**, com arquitetura limpa (ports & adapters) e código simples e legível.
+- Modelagem e consultas em **PostgreSQL**.
+- **Testes automatizados** (unitários e de integração) como parte do fluxo de desenvolvimento, não um detalhe deixado pro fim.
+- **Docker** e **Kubernetes** para empacotar e entregar os serviços.
+- Frontend em **Vue.js** para entregar features de ponta a ponta.
+- Cultura de **code review** e atenção a boas práticas de engenharia.
 
-Sou movido por desafios e pela busca de código limpo, simples e bem testado, e levo cultura de code review a sério.
+Autodidata, movido por desafios e em busca constante de evolução técnica.
 
 ---
